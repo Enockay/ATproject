@@ -4,10 +4,10 @@
 We want to cub the problem of traders withdrawing there cash to peers and maybe blackmailed with time;
 
 # Goal; 
-- we want to try the the Elarian tools 
-  1.such that even from the website we can have ssd dail for users to either do transactions;
-  2.Use there payment apis to pay customers at instant ;
-  3.we entail to use there SMS services to  alert our customers about there transaction status ;
+- we want to try the Africa Talking tools 
+- apart from the website access we can have ussd dail for users to either do transactions;
+- Use there payment apis to pay customers at instant ;
+- we entail to use there SMS services to  alert our customers about there transaction status ;
 
 # languages we entail to use;
 - we gonna have the prototype of the project in node.js for demonstration purposes;
